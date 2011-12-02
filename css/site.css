@@ -1,0 +1,56 @@
+
+/*
+** Markup free clearing
+** Details: http://www.positioniseverything.net/easyclearing.html
+*/
+.clearfix:after {
+  content: ".";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+  }
+
+.clearfix { display: inline-block; }
+
+/* Hides from IE-mac \*/
+* html .clearfix { height: 1%; }
+.clearfix { display: block; }
+/* End hide from IE-mac */
+
+body {
+	padding-top: 20px;
+}
+
+body.body-solid {
+	background:#000;
+	color: #FFF;
+}
+
+/* Fullscreen image */
+.background-image,
+.background-image .mask {
+  background:#000 50% 50% no-repeat;
+  position:fixed;
+  left:0px;
+  top:0px;
+  right:0px;
+  bottom:0px;
+  height:1000px;
+}
+
+.background-image .mask { background:url(../images/mask.png) 50% 50% no-repeat; }
+.background-image.mask.left { background-image:url(../images/mask-left.png) }
+.background-image.mask.right { background-image:url(../images/mask-left.png) }
+
+/* bootstrap overrides */
+
+h1, h2, h3, h4, h5, h6 { color: #FFFFFF;}
+
+.container-fluid > .sidebar { top: 40px; }
+.container-fluid > .content { margin-top: 20px; }
+.container-fluid > .sidebar  h5{ color: #000000; }
+.hero-unit { background-color: transparent; padding: 20px; margin-bottom: 10px;}
+
+
+
