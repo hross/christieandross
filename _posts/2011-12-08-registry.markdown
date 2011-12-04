@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Engagement
+title: Registry
 image: wedding.png
-description: How did it all go down? This is our story.
+description: Our wedding registry.
 ---
 
-Engagement details.
+Our registry information:

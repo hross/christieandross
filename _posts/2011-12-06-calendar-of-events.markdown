@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Engagement
+title: Calendar of Events
 image: wedding.png
-description: How did it all go down? This is our story.
+description: What else is going on the weekend of the wedding? When are things happening?
 ---
 
-Engagement details.
+Coming Soon!

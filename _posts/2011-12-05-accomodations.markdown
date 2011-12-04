@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Engagement
+title: Accomodations
 image: wedding.png
-description: How did it all go down? This is our story.
+description: Where do I stay when I get to DC?
 ---
 
-Engagement details.
+Coming Soon!

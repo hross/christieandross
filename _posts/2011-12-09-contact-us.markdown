@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Engagement
+title: Contact Us
 image: wedding.png
-description: How did it all go down? This is our story.
+description: If you need to get in touch with us, click below!
 ---
 
-Engagement details.
+Contact information
