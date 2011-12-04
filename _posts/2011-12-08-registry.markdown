@@ -1,8 +1,0 @@
----
-layout: post
-title: Registry
-image: wedding.png
-description: Our wedding registry.
----
-
-Our registry information:
