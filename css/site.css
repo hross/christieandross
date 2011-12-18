@@ -48,6 +48,9 @@ body.body-solid {
 
 h1, h2, h3, h4, h5, h6 { color: #FFFFFF;}
 
+p { font-size: 15px; line-height: 20px; }
+a { color: #806D7E; }
+
 .container-fluid > .sidebar { top: 40px; }
 .container-fluid > .content { margin-top: 20px; }
 .container-fluid > .sidebar  h5{ color: #000000; }
