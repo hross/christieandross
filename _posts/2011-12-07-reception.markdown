@@ -13,6 +13,12 @@ The cocktail hour will begin at 5:30 and will be followed by seated dinner. Appe
 
 Brasserie Beck is a contemporary European style brasserie in the heart of DC's burgeoning McPherson squre neightborhood. Opened by critically acclaimed chef/owner Robert Wiedmaier in the Spring of 2007, Wiedmaier statys true to his Belgian roots creating and cooking casual, affordable fare in the "brasserie style" of serving all day from lunch to late night.
 
+## Parking
+
+Valet parking will be available.
+
+## Directions
+
 Brasserie Beck is located at: 
 
 [1101 K Street NW, Washington, DC 20005](http://maps.google.com/maps/place?q=brasserie+beck+washington+dc&hl=en&cid=16805725036757829664)

@@ -51,6 +51,7 @@ h1, h2, h3, h4, h5, h6 { color: #FFFFFF;}
 p { font-size: 15px; line-height: 20px; }
 a { color: #D462FF; }
 a:active { color: #D462FF; }	
+a:hover { color: #D462FF; }	
 
 .container-fluid > .sidebar { top: 40px; }
 .container-fluid > .content { margin-top: 20px; }
