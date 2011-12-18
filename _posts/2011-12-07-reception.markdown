@@ -17,6 +17,4 @@ Brasserie Beck is located at:
 
 [1101 K Street NW, Washington, DC 20005](http://maps.google.com/maps/place?q=brasserie+beck+washington+dc&hl=en&cid=16805725036757829664)
 
-In order to get to [restaurant] from the ceremony location, [insert directions]. 
-
-[Insert information about parking]
+Please see [the ceremony page](/2011/12/08/ceremony.html) for directions to the restaurant from the ceremony.
