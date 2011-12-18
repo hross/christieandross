@@ -61,4 +61,5 @@ a:hover { color: #D462FF; }
 
 p > img { float: right; }
 
-li { color: #FFFFFF; }
+li { color: #FFFFFF; line-height: 20px; padding: 5px;}
+.sidebar > li { padding: 0px;}
