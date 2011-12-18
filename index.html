@@ -16,16 +16,21 @@ title: Christie and Ross are getting married!
         </div>
 		
 		<div class="row">
+		{% assign currentRow = 1 %}
 		{% for post in site.posts %}
 			<div class="span5">
 				<h2>{{ post.title }}</h2>
 				<p>{{ post.description }}</p>
 				<p><a class="btn" href="{{ post.url }}">View details &raquo;</a></p>
-
-			{% if forloop.index % 3 == 0 %}
 			</div>
-			<hr>
-			<div class="row">
+			
+			{% if currentRow == 3 %}
+				{% assign currentRow = 1 %}
+				</div>
+				<hr>
+				<div class="row">
+			{% else %}
+				{% assign currentRow = currentRow + 1 %}
 			{% endif %}
 		
 		{% endfor %}
