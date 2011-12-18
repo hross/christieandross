@@ -32,4 +32,4 @@ The reception will be held at Brasserie Beck ([see this page for more details](/
 4. Make a right on 11th Street.
 5. Brasserie Beck will be one block on your right.
 
-[Click here for Google Maps directions](http://maps.google.com/maps?saddr=1644+31st+Street+Northwest,+Washington,+DC+20007+(Tudor+Place)&daddr=Brasserie+Beck,+K+Street+Northwest,+Washington,+DC&hl=en&sll=38.907198,-77.044759&sspn=0.022141,0.052314&geocode=Fa--UQIdJB9o-yER_lWb4ip8Ag%3BFeabUQIdaaho-yEgyNZg4e056Q&vpsrc=0&mra=ls&t=m&z=15).
+[Click here for Google Maps directions](http://maps.google.com/maps?saddr=1644+31st+Street+Northwest,+Washington,+DC+20007&daddr=Brasserie+Beck,+K+Street+Northwest,+Washington,+DC&hl=en&sll=38.907198,-77.044759&sspn=0.022141,0.052314&geocode=Fa--UQIdJB9o-yER_lWb4ip8Ag%3BFeabUQIdaaho-yEgyNZg4e056Q&vpsrc=0&mra=ls&t=m&z=15).

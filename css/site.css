@@ -9,7 +9,7 @@
   height: 0;
   clear: both;
   visibility: hidden;
-  }
+}
 
 .clearfix { display: inline-block; }
 
@@ -20,6 +20,7 @@
 
 body {
 	padding-top: 20px;
+	font-family: Papyrus, Helvetica;
 }
 
 body.body-solid {
@@ -54,3 +55,4 @@ h1, h2, h3, h4, h5, h6 { color: #FFFFFF;}
 
 p > img { float: right; }
 
+li { color: #FFFFFF; }
