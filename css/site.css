@@ -21,6 +21,7 @@
 body {
 	padding-top: 20px;
 	font-family: 'Handlee', Helvetica;
+	font-size: 15px;
 }
 
 body.body-solid {
