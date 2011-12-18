@@ -52,5 +52,5 @@ h1, h2, h3, h4, h5, h6 { color: #FFFFFF;}
 .container-fluid > .sidebar  h5{ color: #000000; }
 .hero-unit { background-color: transparent; padding: 20px; margin-bottom: 10px;}
 
-
+p > img { float: right; }
 
