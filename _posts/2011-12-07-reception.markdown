@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reception
-image: wedding.png
+image: beck.png
 description: The reception will follow the wedding and will be held at Brasserie Beck, a contemporary Belgian Brasserie in downtown Washington, DC.
 ---
 
