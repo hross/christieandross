@@ -5,9 +5,9 @@ image: beck.png
 description: The reception will follow the wedding and will be held at Brasserie Beck, a contemporary Belgian Brasserie in downtown Washington, DC.
 ---
 
-[Image of reception venue]
+![Beck front door](/images/beck_entrance.jpg)
 
-Following the ceremony, we will move to ___ to celebrate our marriage! 
+Following the ceremony, we will move to [Brasserie Beck](http://beckdc.com/) to celebrate our marriage! 
 
 The cocktail hour will begin at 5:30 and will be followed by seated dinner. Appetizers and entrees will be ordered at the reception and do not need to be submitted beforehand. 
 
