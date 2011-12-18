@@ -14,8 +14,23 @@ title: Christie and Ross are getting married!
 		  
 		  <p>Welcome to Christie and Ross's wedding website. We’re excited to be getting married in the city where we met, Washington DC. This site should give you some general information about our wedding. We’re looking forward to celebrating with you soon!</p>
         </div>
+		
+		<div class="row">
+		{% for post in site.posts %}
+			<div class="span5">
+				<h2>{{ post.title }}</h2>
+				<p>{{ post.description }}</p>
+				<p><a class="btn" href="{{ post.url }}">View details &raquo;</a></p>
 
-
+			{% if forloop.index % 3 == 0 %}
+			</div>
+			<hr>
+			<div class="row">
+			{% endif %}
+		
+		{% endfor %}
+		</div>
+		
         <div class="row">
           <div class="span5">
             <h2>Engagement</h2>
