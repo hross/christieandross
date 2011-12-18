@@ -21,7 +21,7 @@
 body {
 	padding-top: 20px;
 	font-family: 'Handlee', Helvetica;
-	font-size: 15px;
+	font-size: 17px;
 }
 
 body.body-solid {
@@ -49,7 +49,7 @@ body.body-solid {
 
 h1, h2, h3, h4, h5, h6 { color: #FFFFFF;}
 
-p { font-size: 15px; line-height: 20px; }
+p { font-size: 17px; line-height: 22px; }
 a { color: #D462FF; }
 a:active { color: #D462FF; }	
 a:hover { color: #D462FF; }	
@@ -61,6 +61,6 @@ a:hover { color: #D462FF; }
 
 p > img { float: right; }
 
-li { color: #FFFFFF; line-height: 20px; padding: 5px;}
+li { color: #FFFFFF; line-height: 22px; padding: 5px;}
 .sidebar li { padding: 0px; }
 .sidebar ul { list-style-type: none; }
