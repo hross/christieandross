@@ -25,18 +25,7 @@ title: Christie and Ross are getting married!
 				<p><a class="btn" href="{{ post.url }}">View details &raquo;</a></p>
 			</div>
 			
-			{% if currentRow == 3 %}
-			<p>here - {{ currentRow }}</p>
-				{% assign currentRow = 1 %}
-				</div>
-				<hr>
-				<div class="row">
-			{% else %}
-			
-				{% assign currentRow = currentRow + 1 %}
-				<p>here - {{ currentRow }}</p>
-			{% endif %}
-		
+			{% cycle '', '', '</div><hr><div class="row">' %}
 		{% endfor %}
 		</div>
 		
