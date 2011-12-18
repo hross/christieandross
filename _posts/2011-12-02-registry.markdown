@@ -5,4 +5,6 @@ image: wedding.png
 description: Our wedding registry.
 ---
 
-Our registry information:
+Our wedding is approaching, and we look forward to celebrating it with you.  We have created a special website with the I Do Foundation to tell you about our events, travel, and more. On our website, you can also learn about our decision to bring a charitable focus to our wedding, using the I Do Foundation's wedding services.  To take a look, just click on the link below (or copy and paste the link into the address line of your web browser):
+
+http://www.idofoundation.org/cgi-bin/viewdonations.cgi?OccasionID=49140	
