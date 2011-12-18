@@ -1,0 +1,3 @@
+$(function() {
+	$("span.email").emailify();
+});
