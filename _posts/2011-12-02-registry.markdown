@@ -5,6 +5,10 @@ image: wedding.png
 description: Our wedding registry.
 ---
 
-Our wedding is approaching, and we look forward to celebrating it with you.  We have created a special website with the I Do Foundation to tell you about our events, travel, and more. On our website, you can also learn about our decision to bring a charitable focus to our wedding, using the I Do Foundation's wedding services.  To take a look, just click on the link below (or copy and paste the link into the address line of your web browser):
+We've decided to bring a charitable focus to our wedding registry. While we love the potential possiblities for gifts on a traditional registry, we also feel fortunate to have more than we need. We've decided to donate a portion of our registry proceeds to the Red Cross and UNICEF. Please use the link below to donate via our registry:
 
 [http://www.idofoundation.org/cgi-bin/viewdonations.cgi?OccasionID=49140](http://www.idofoundation.org/cgi-bin/viewdonations.cgi?OccasionID=49140)
+
+Direct donations are great, but if you feel you would like to give a gift, you can also use purchase items at these registries, which will donate portions of the cost to charity:
+
+[Macy's](http://www1.macys.com/registry/wedding/guest/?registryId=660132)
