@@ -17,6 +17,7 @@ title: Christie and Ross are getting married!
 		
 		<div class="row">
 		{% assign currentRow = 1 %}
+		
 		{% for post in site.posts %}
 			<div class="span5">
 				<h2>{{ post.title }} - {{ currentRow }}</h2>
@@ -25,12 +26,15 @@ title: Christie and Ross are getting married!
 			</div>
 			
 			{% if currentRow == 3 %}
+			<p>here - {{ currentRow }}</p>
 				{% assign currentRow = 1 %}
 				</div>
 				<hr>
 				<div class="row">
 			{% else %}
+			
 				{% assign currentRow = currentRow + 1 %}
+				<p>here - {{ currentRow }}</p>
 			{% endif %}
 		
 		{% endfor %}
