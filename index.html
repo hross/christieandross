@@ -19,7 +19,7 @@ title: Christie and Ross are getting married!
 		{% assign currentRow = 1 %}
 		{% for post in site.posts %}
 			<div class="span5">
-				<h2>{{ post.title }}</h2>
+				<h2>{{ post.title }} - {{ currentRow }}</h2>
 				<p>{{ post.description }}</p>
 				<p><a class="btn" href="{{ post.url }}">View details &raquo;</a></p>
 			</div>
