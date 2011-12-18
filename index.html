@@ -16,11 +16,9 @@ title: Christie and Ross are getting married!
         </div>
 		
 		<div class="row">
-		{% assign currentRow = 1 %}
-		
 		{% for post in site.posts %}
 			<div class="span5">
-				<h2>{{ post.title }} - {{ currentRow }}</h2>
+				<h2>{{ post.title }}</h2>
 				<p>{{ post.description }}</p>
 				<p><a class="btn" href="{{ post.url }}">View details &raquo;</a></p>
 			</div>
@@ -28,61 +26,3 @@ title: Christie and Ross are getting married!
 			{% cycle '', '', '</div><hr><div class="row">' %}
 		{% endfor %}
 		</div>
-		
-        <div class="row">
-          <div class="span5">
-            <h2>Engagement</h2>
-            <p>How did it all go down? Click below to find out...</p>
-            <p><a class="btn" href="#">View details &raquo;</a></p>
-          </div>
-          <div class="span5">
-            <h2>Ceremony</h2>
-             <p>Our wedding ceremony will take place at historic Tudor Place in the Georgetown neighborhood of Washington, DC.</p>
-            <p><a class="btn" href="#">View details &raquo;</a></p>
-         </div>
-          <div class="span5">
-            <h2>Reception</h2>
-            <p>The reception will follow the wedding and will be held at Brasserie Beck, a contemporary Belgian Brasserie in downtown Washington, DC.</p>
-            <p><a class="btn" href="#">View details &raquo;</a></p>
-          </div>
-        </div>
-
-        <hr>
-
-        <div class="row">
-          <div class="span5">
-            <h2>Getting Here</h2>
-            <p>How do I get to Washington, DC?</p>
-            <p><a class="btn" href="#">View details &raquo;</a></p>
-          </div>
-          <div class="span5">
-            <h2>Accomodations</h2>
-             <p>Where do I stay when I get to DC?</p>
-            <p><a class="btn" href="#">View details &raquo;</a></p>
-         </div>
-          <div class="span5">
-            <h2>Calendar of Events</h2>
-            <p>What else is going on the weekend of the wedding? When are things happening?</p>
-            <p><a class="btn" href="#">View details &raquo;</a></p>
-          </div>
-        </div>
-
-        <hr>
-
-        <div class="row">
-          <div class="span5">
-            <h2>Activities</h2>
-            <p>What do I do when I get to DC? What kinds of attractions are there?</p>
-            <p><a class="btn" href="#">View details &raquo;</a></p>
-          </div>
-          <div class="span5">
-            <h2>Registry</h2>
-             <p>Our wedding registry.</p>
-            <p><a class="btn" href="#">View details &raquo;</a></p>
-         </div>
-          <div class="span5">
-            <h2>Contact Us</h2>
-            <p>If you need to get in touch with us, click below!</p>
-            <p><a class="btn" href="#">View details &raquo;</a></p>
-          </div>
-        </div>
