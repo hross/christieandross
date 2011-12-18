@@ -5,7 +5,7 @@ image: tudor-entrance.png
 description: Our wedding ceremony will take place at historic Tudor Place in the Georgetown neighborhood of Washington, DC.
 ---
 
-![Bowling Green](/images/bowlingbloom.jpg)
+![Bowling Green](/images/bowlingbloom.JPG)
 
 
 The ceremony will take place at 4:30 p.m. on June 9, 2012 at Tudor Place in the Georgetown neighborhood of Washington, D.C. Construction began on the home in 1789 and was later bought in 1805 by Martha Washington’s granddaughter, Martha Custis Peter, and her husband, Thomas Peter, who expanded the home. The ceremony will be held in the Bowling Green garden of the home. 
