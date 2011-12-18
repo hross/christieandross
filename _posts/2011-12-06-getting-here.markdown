@@ -19,6 +19,10 @@ While BWI is farther away, it is the best place to fly in if you are taking a So
 
 June is a popular tourist month in D.C., so we recommend booking flights early!
 
+## Getting Around
+
+The best way to navigate DC is to [take the metro](http://www.wmata.com/). It is fast, convenient and goes all over the area.
+
 ## Hotel Information
 
 See the [accomodations page](/2011/12/05/accomodations.html).
