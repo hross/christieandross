@@ -5,10 +5,9 @@ image: wedding.png
 description: Our wedding registry.
 ---
 
-We've decided to bring a charitable focus to our wedding registry. While we love the potential possiblities for gifts on a traditional registry, we also feel fortunate to have more than we need. We've decided to donate a portion of our registry proceeds to the Red Cross and UNICEF. Please use the link below to donate via our registry:
+We've decided to bring a charitable focus to our wedding registry. We feel fortunate to have all that we need and have set up registry to enable charitable donations to our chosen organizations, the American Red Cross and UNICEF. If you would prefer to give a traditional gift, we have also registered at Macy's. If you chose to give a gift through Macy's, a portion of the proceeds will be donated to our chosen charities.
 
-[http://www.idofoundation.org/cgi-bin/viewdonations.cgi?OccasionID=49140](http://www.idofoundation.org/cgi-bin/viewdonations.cgi?OccasionID=49140)
+ Please use the link below to access our registry:
 
-Direct donations are great, but if you feel you would like to give a gift, you can also use purchase items at these registries, which will donate portions of the cost to charity:
+[https://www.idofoundation.org/cgi-bin/mvc.cgi?page=welcome.html&OccasionID=49140](View our registry)
 
-[Macy's](http://www1.macys.com/registry/wedding/guest/?registryId=660132)
