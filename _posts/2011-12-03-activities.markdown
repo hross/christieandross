@@ -7,7 +7,7 @@ description: What do I do when I get to DC? What kinds of attractions are there?
 
 Here are a few ways to spend your time in D.C.!
 
-* *Explore classic Washington, D.C. landmarks and museums... by visiting the famous Smithsonian museums and zoo, visiting George Washington�s historic home at Mount Vernon, or strolling on the National Mall.
+* *Explore classic Washington, D.C. landmarks and museums*... by visiting the famous Smithsonian museums and zoo, visiting George Washington�s historic home at Mount Vernon, or strolling on the National Mall.
 * *Trek up 365 steps*... into the US Capitol dome with your favorite member of Congress as trailblazer. Guided tours of the Capitol, which include the iconic rotunda, can be reserved through a congressional office or via the Capitol Visitor Center�s online reservation system. But the dome can be ascended only with a member of Congress as escort.
 * *Relive the news from the past and even make some of your own*... by visiting our favorite museum, the Newseum. The 250,000-square-foot museum of news offers visitors an experience that blends five centuries of news history with up-to-the-second technology and hands-on exhibits.
 * *Go monument-hopping at night*... stopping first at the Korean War Veterans Memorial, where 19 stainless-steel soldiers appear to come to life with white spotlights capturing their expressions. Next, see the Franklin Delano Roosevelt Memorial, where the statues, walls, and waterfall are especially evocative in the moonlight.
