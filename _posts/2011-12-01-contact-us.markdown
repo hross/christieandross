@@ -9,4 +9,4 @@ Got questions or need some help? Feel free to email us:
 
 <span class="email">hross [at] hross [dot] net</span>
 
-or call (phone number not available via web site =D)!
+<span class="email">christiemcox [at] gmail [dot] com</span>
