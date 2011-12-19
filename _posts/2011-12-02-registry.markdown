@@ -7,7 +7,5 @@ description: Our wedding registry.
 
 We've decided to bring a charitable focus to our wedding registry. We feel fortunate to have all that we need and have set up registry to enable charitable donations to our chosen organizations, the American Red Cross and UNICEF. If you would prefer to give a traditional gift, we have also registered at Macy's. If you chose to give a gift through Macy's, a portion of the proceeds will be donated to our chosen charities.
 
- Please use the link below to access our registry:
-
-[https://www.idofoundation.org/cgi-bin/mvc.cgi?page=welcome.html&OccasionID=49140](View our registry)
+[View our registry](https://www.idofoundation.org/cgi-bin/mvc.cgi?page=welcome.html&OccasionID=49140)
 
